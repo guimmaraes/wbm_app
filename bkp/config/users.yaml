@@ -1,0 +1,21 @@
+users:
+  - username: marco
+    email: marco@sintesequimica.com.br
+    password: adm123
+    role: admin
+
+  - username: cicero
+    email: cicero@sintesequimica.com.br
+    password: cicero123
+    role: user
+
+  # Espaço reservado para novos usuários:
+  - username: novo1
+    email: novo1@example.com
+    password: senha123
+    role: user
+
+  - username: novo2
+    email: novo2@example.com
+    password: senha123
+    role: user

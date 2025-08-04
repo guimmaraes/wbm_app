@@ -1,0 +1,10 @@
+paths:
+  destino_excel: C:\Users\guimm\OneDrive\Documents\1.BI\wbm-app\1.cotacoes\destino_excel
+  destino_pdf_historico: C:\Users\guimm\OneDrive\Documents\1.BI\wbm-app\1.cotacoes\destino_pdf_historico
+  origem_pdf: C:\Users\guimm\OneDrive\Documents\1.BI\wbm-app\1.cotacoes
+  destino_excel_etl: C:\Users\guimm\OneDrive\Documents\1.BI\wbm-app\1.cotacoes\destino_excel_etl
+  destino_analises: C:\Users\guimm\OneDrive\Documents\1.BI\wbm-app\1.cotacoes\destino_analises
+
+  url_clientes: https://docs.google.com/spreadsheets/d/e/2PACX-1vQSEjh1cVe1mLA7NKWeUrx5OrRDtFdfEHzEi8hrZx_T51KCnKcftiP3qoCO-6oFqsCs9wg2wrsGu1IC/pub?gid=0&single=true&output=csv
+  url_mc: https://docs.google.com/spreadsheets/d/e/2PACX-1vRb2vOEjSkawtw1YWzi7YYRzFCN8ZqHkx8_iyifAt1f2cJQ8r31Z6LtGY3Mf3Gd3rMaXJ2POgRMbqEO/pub?gid=0&single=true&output=csv
+  url_condicoes: https://docs.google.com/spreadsheets/d/e/2PACX-1vQn2S15e0Yz5DcuWQIjAJvR4GnVsSTn9wjIuTXO1cj4i94xyfc9eJTePQcbSYbTaCnvEQ97qydNoJ3u/pub?gid=0&single=true&output=csv
